@@ -1,5 +1,11 @@
 /* Cascading stylesheet for the website */
 
+  body {
+    background-color: beige;
+    color: black; /* set the text color to black here */
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif; /* set the font here */
+    text-align: center; /* set the text alignment here */
+   }
 /* Text inside these asterisks and slashes are comments for human */
 
   a {
@@ -11,13 +17,6 @@
     color: red;/* set the text color to red here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
-
-  body {
-    background-color: beige;
-    color: black; /* set the text color to black here */
-    font-family: Arial, Helvetica, sans-serif; /* set the font here */
-    text-align: center; /* set the text alignment here */
-   }
 
   footer {
     margin-top: 2rem;
